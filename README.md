@@ -1,5 +1,7 @@
 # Go Student - A Student Community Website
 ## Website : https://karthikjayant.github.io/
+![image](https://github.com/karthikjayant/karthikjayant.github.io/assets/92135595/1b757638-046f-4069-9886-456cf14874af)
+
 
 ## Overview:
 Go Student is an innovative and dynamic website designed to foster a vibrant online community for students. The platform offers comprehensive information about the campus, including detailed faculty profiles and their contact information. It also features the latest news on upcoming and ongoing campus events, a posting page where students can share their content such as photos and blogs, and a complaint box that allows students to voice their concerns, ensuring they reach the relevant departments for resolution.
