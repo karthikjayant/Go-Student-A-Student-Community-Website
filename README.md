@@ -1,5 +1,5 @@
 # Go Student - A Student Community Website
-## Website : https://karthikjayant.github.io/
+## Website : http://gostudent.s3-website.eu-north-1.amazonaws.com/index.html
 ![image](https://github.com/karthikjayant/karthikjayant.github.io/assets/92135595/1b757638-046f-4069-9886-456cf14874af)
 
 
