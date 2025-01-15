@@ -8,7 +8,7 @@ Go Student is an innovative and dynamic website designed to foster a vibrant onl
 
 ## Technologies Used:
 Front-end: HTML, CSS, JavaScript
-Back-end: JavaScript, Node.js, MongoDB (NoSQL database)
+Back-end: JavaScript, AWS S3 (for Deployment)
 
 ## Features:
 Faculty and Contact Details: Easily accessible information about faculty members.
